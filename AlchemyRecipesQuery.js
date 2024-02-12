@@ -8,9 +8,12 @@ const items = new Database.Items().filter(
     item.createdBy[0].requiredSkill <= 300
 );
 
+const vialIds = [3371, 3372, 8925, 18256];
 const filteredAlchemyRecipes = items.map((item) => {
   const itemId = item.itemId;
-  const sources = item.createdBy[0].reagents;
+  const sources = item.createdBy[0].reagents.filter(
+    (item) => vialIds.indexOf(item.itemId) == -1
+  );
 
   return { name: item.name, itemId: itemId, reagents: sources };
 });
