@@ -1,294 +1,296 @@
-[
-  {
-    "reagentId": 2447,
-    "reagentName": "Peacebloom"
-  },
-  {
-    "reagentId": 765,
-    "reagentName": "Silverleaf"
-  },
-  {
-    "reagentId": 3371,
-    "reagentName": "Empty Vial"
-  },
-  {
-    "reagentId": 118,
-    "reagentName": "Minor Healing Potion"
-  },
-  {
-    "reagentId": 2450,
-    "reagentName": "Briarthorn"
-  },
-  {
-    "reagentId": 2453,
-    "reagentName": "Bruiseweed"
-  },
-  {
-    "reagentId": 3372,
-    "reagentName": "Leaded Vial"
-  },
-  {
-    "reagentId": 3357,
-    "reagentName": "Liferoot"
-  },
-  {
-    "reagentId": 3356,
-    "reagentName": "Kingsblood"
-  },
-  {
-    "reagentId": 2449,
-    "reagentName": "Earthroot"
-  },
-  {
-    "reagentId": 2452,
-    "reagentName": "Swiftthistle"
-  },
-  {
-    "reagentId": 785,
-    "reagentName": "Mageroyal"
-  },
-  {
-    "reagentId": 1288,
-    "reagentName": "Large Venom Sac"
-  },
-  {
-    "reagentId": 3355,
-    "reagentName": "Wild Steelbloom"
-  },
-  {
-    "reagentId": 3820,
-    "reagentName": "Stranglekelp"
-  },
-  {
-    "reagentId": 8839,
-    "reagentName": "Blindweed"
-  },
-  {
-    "reagentId": 8845,
-    "reagentName": "Ghost Mushroom"
-  },
-  {
-    "reagentId": 8925,
-    "reagentName": "Crystal Vial"
-  },
-  {
-    "reagentId": 3818,
-    "reagentName": "Fadeleaf"
-  },
-  {
-    "reagentId": 3369,
-    "reagentName": "Grave Moss"
-  },
-  {
-    "reagentId": 3821,
-    "reagentName": "Goldthorn"
-  },
-  {
-    "reagentId": 3358,
-    "reagentName": "Khadgar's Whisker"
-  },
-  {
-    "reagentId": 3819,
-    "reagentName": "Wintersbite"
-  },
-  {
-    "reagentId": 8838,
-    "reagentName": "Sungrass"
-  },
-  {
-    "reagentId": 3164,
-    "reagentName": "Discolored Worg Heart"
-  },
-  {
-    "reagentId": 3858,
-    "reagentName": "Mithril Ore"
-  },
-  {
-    "reagentId": 5637,
-    "reagentName": "Large Fang"
-  },
-  {
-    "reagentId": 6370,
-    "reagentName": "Blackmouth Oil"
-  },
-  {
-    "reagentId": 5635,
-    "reagentName": "Sharp Claw"
-  },
-  {
-    "reagentId": 4402,
-    "reagentName": "Small Flame Sac"
-  },
-  {
-    "reagentId": 6371,
-    "reagentName": "Fire Oil"
-  },
-  {
-    "reagentId": 6358,
-    "reagentName": "Oily Blackmouth"
-  },
-  {
-    "reagentId": 6359,
-    "reagentName": "Firefin Snapper"
-  },
-  {
-    "reagentId": 6522,
-    "reagentName": "Deviate Fish"
-  },
-  {
-    "reagentId": 7077,
-    "reagentName": "Heart of Fire"
-  },
-  {
-    "reagentId": 7082,
-    "reagentName": "Essence of Air"
-  },
-  {
-    "reagentId": 7078,
-    "reagentName": "Essence of Fire"
-  },
-  {
-    "reagentId": 7076,
-    "reagentName": "Essence of Earth"
-  },
-  {
-    "reagentId": 7080,
-    "reagentName": "Essence of Water"
-  },
-  {
-    "reagentId": 4625,
-    "reagentName": "Firebloom"
-  },
-  {
-    "reagentId": 8831,
-    "reagentName": "Purple Lotus"
-  },
-  {
-    "reagentId": 8836,
-    "reagentName": "Arthas' Tears"
-  },
-  {
-    "reagentId": 7067,
-    "reagentName": "Elemental Earth"
-  },
-  {
-    "reagentId": 9260,
-    "reagentName": "Volatile Rum"
-  },
-  {
-    "reagentId": 8153,
-    "reagentName": "Wildvine"
-  },
-  {
-    "reagentId": 3575,
-    "reagentName": "Iron Bar"
-  },
-  {
-    "reagentId": 9262,
-    "reagentName": "Black Vitriol"
-  },
-  {
-    "reagentId": 8846,
-    "reagentName": "Gromsblood"
-  },
-  {
-    "reagentId": 4342,
-    "reagentName": "Purple Dye"
-  },
-  {
-    "reagentId": 12359,
-    "reagentName": "Thorium Bar"
-  },
-  {
-    "reagentId": 12363,
-    "reagentName": "Arcane Crystal"
-  },
-  {
-    "reagentId": 13423,
-    "reagentName": "Stonescale Oil"
-  },
-  {
-    "reagentId": 13463,
-    "reagentName": "Dreamfoil"
-  },
-  {
-    "reagentId": 13467,
-    "reagentName": "Icecap"
-  },
-  {
-    "reagentId": 13466,
-    "reagentName": "Plaguebloom"
-  },
-  {
-    "reagentId": 13464,
-    "reagentName": "Golden Sansam"
-  },
-  {
-    "reagentId": 13465,
-    "reagentName": "Mountain Silversage"
-  },
-  {
-    "reagentId": 13422,
-    "reagentName": "Stonescale Eel"
-  },
-  {
-    "reagentId": 7070,
-    "reagentName": "Elemental Water"
-  },
-  {
-    "reagentId": 10620,
-    "reagentName": "Thorium Ore"
-  },
-  {
-    "reagentId": 3824,
-    "reagentName": "Shadow Oil"
-  },
-  {
-    "reagentId": 7068,
-    "reagentName": "Elemental Fire"
-  },
-  {
-    "reagentId": 11176,
-    "reagentName": "Dream Dust"
-  },
-  {
-    "reagentId": 9149,
-    "reagentName": "Philosopher's Stone"
-  },
-  {
-    "reagentId": 25867,
-    "reagentName": "Earthstorm Diamond"
-  },
-  {
-    "reagentId": 25868,
-    "reagentName": "Skyfire Diamond"
-  },
-  {
-    "reagentId": 22794,
-    "reagentName": "Fel Lotus"
-  },
-  {
-    "reagentId": 23571,
-    "reagentName": "Primal Might"
-  },
-  {
-    "reagentId": 13468,
-    "reagentName": "Black Lotus"
-  },
-  {
-    "reagentId": 10286,
-    "reagentName": "Heart of the Wild"
-  },
-  {
-    "reagentId": 18256,
-    "reagentName": "Imbued Vial"
-  },
-  {
-    "reagentId": 7972,
-    "reagentName": "Ichor of Undeath"
-  },
-  {
-    "reagentId": 22785,
-    "reagentName": "Felweed"
-  }
-]
+{
+  "reagents": [
+    {
+      "reagentId": 2447,
+      "reagentName": "Peacebloom"
+    },
+    {
+      "reagentId": 765,
+      "reagentName": "Silverleaf"
+    },
+    {
+      "reagentId": 3371,
+      "reagentName": "Empty Vial"
+    },
+    {
+      "reagentId": 118,
+      "reagentName": "Minor Healing Potion"
+    },
+    {
+      "reagentId": 2450,
+      "reagentName": "Briarthorn"
+    },
+    {
+      "reagentId": 2453,
+      "reagentName": "Bruiseweed"
+    },
+    {
+      "reagentId": 3372,
+      "reagentName": "Leaded Vial"
+    },
+    {
+      "reagentId": 3357,
+      "reagentName": "Liferoot"
+    },
+    {
+      "reagentId": 3356,
+      "reagentName": "Kingsblood"
+    },
+    {
+      "reagentId": 2449,
+      "reagentName": "Earthroot"
+    },
+    {
+      "reagentId": 2452,
+      "reagentName": "Swiftthistle"
+    },
+    {
+      "reagentId": 785,
+      "reagentName": "Mageroyal"
+    },
+    {
+      "reagentId": 1288,
+      "reagentName": "Large Venom Sac"
+    },
+    {
+      "reagentId": 3355,
+      "reagentName": "Wild Steelbloom"
+    },
+    {
+      "reagentId": 3820,
+      "reagentName": "Stranglekelp"
+    },
+    {
+      "reagentId": 8839,
+      "reagentName": "Blindweed"
+    },
+    {
+      "reagentId": 8845,
+      "reagentName": "Ghost Mushroom"
+    },
+    {
+      "reagentId": 8925,
+      "reagentName": "Crystal Vial"
+    },
+    {
+      "reagentId": 3818,
+      "reagentName": "Fadeleaf"
+    },
+    {
+      "reagentId": 3369,
+      "reagentName": "Grave Moss"
+    },
+    {
+      "reagentId": 3821,
+      "reagentName": "Goldthorn"
+    },
+    {
+      "reagentId": 3358,
+      "reagentName": "Khadgar's Whisker"
+    },
+    {
+      "reagentId": 3819,
+      "reagentName": "Wintersbite"
+    },
+    {
+      "reagentId": 8838,
+      "reagentName": "Sungrass"
+    },
+    {
+      "reagentId": 3164,
+      "reagentName": "Discolored Worg Heart"
+    },
+    {
+      "reagentId": 3858,
+      "reagentName": "Mithril Ore"
+    },
+    {
+      "reagentId": 5637,
+      "reagentName": "Large Fang"
+    },
+    {
+      "reagentId": 6370,
+      "reagentName": "Blackmouth Oil"
+    },
+    {
+      "reagentId": 5635,
+      "reagentName": "Sharp Claw"
+    },
+    {
+      "reagentId": 4402,
+      "reagentName": "Small Flame Sac"
+    },
+    {
+      "reagentId": 6371,
+      "reagentName": "Fire Oil"
+    },
+    {
+      "reagentId": 6358,
+      "reagentName": "Oily Blackmouth"
+    },
+    {
+      "reagentId": 6359,
+      "reagentName": "Firefin Snapper"
+    },
+    {
+      "reagentId": 6522,
+      "reagentName": "Deviate Fish"
+    },
+    {
+      "reagentId": 7077,
+      "reagentName": "Heart of Fire"
+    },
+    {
+      "reagentId": 7082,
+      "reagentName": "Essence of Air"
+    },
+    {
+      "reagentId": 7078,
+      "reagentName": "Essence of Fire"
+    },
+    {
+      "reagentId": 7076,
+      "reagentName": "Essence of Earth"
+    },
+    {
+      "reagentId": 7080,
+      "reagentName": "Essence of Water"
+    },
+    {
+      "reagentId": 4625,
+      "reagentName": "Firebloom"
+    },
+    {
+      "reagentId": 8831,
+      "reagentName": "Purple Lotus"
+    },
+    {
+      "reagentId": 8836,
+      "reagentName": "Arthas' Tears"
+    },
+    {
+      "reagentId": 7067,
+      "reagentName": "Elemental Earth"
+    },
+    {
+      "reagentId": 9260,
+      "reagentName": "Volatile Rum"
+    },
+    {
+      "reagentId": 8153,
+      "reagentName": "Wildvine"
+    },
+    {
+      "reagentId": 3575,
+      "reagentName": "Iron Bar"
+    },
+    {
+      "reagentId": 9262,
+      "reagentName": "Black Vitriol"
+    },
+    {
+      "reagentId": 8846,
+      "reagentName": "Gromsblood"
+    },
+    {
+      "reagentId": 4342,
+      "reagentName": "Purple Dye"
+    },
+    {
+      "reagentId": 12359,
+      "reagentName": "Thorium Bar"
+    },
+    {
+      "reagentId": 12363,
+      "reagentName": "Arcane Crystal"
+    },
+    {
+      "reagentId": 13423,
+      "reagentName": "Stonescale Oil"
+    },
+    {
+      "reagentId": 13463,
+      "reagentName": "Dreamfoil"
+    },
+    {
+      "reagentId": 13467,
+      "reagentName": "Icecap"
+    },
+    {
+      "reagentId": 13466,
+      "reagentName": "Plaguebloom"
+    },
+    {
+      "reagentId": 13464,
+      "reagentName": "Golden Sansam"
+    },
+    {
+      "reagentId": 13465,
+      "reagentName": "Mountain Silversage"
+    },
+    {
+      "reagentId": 13422,
+      "reagentName": "Stonescale Eel"
+    },
+    {
+      "reagentId": 7070,
+      "reagentName": "Elemental Water"
+    },
+    {
+      "reagentId": 10620,
+      "reagentName": "Thorium Ore"
+    },
+    {
+      "reagentId": 3824,
+      "reagentName": "Shadow Oil"
+    },
+    {
+      "reagentId": 7068,
+      "reagentName": "Elemental Fire"
+    },
+    {
+      "reagentId": 11176,
+      "reagentName": "Dream Dust"
+    },
+    {
+      "reagentId": 9149,
+      "reagentName": "Philosopher's Stone"
+    },
+    {
+      "reagentId": 25867,
+      "reagentName": "Earthstorm Diamond"
+    },
+    {
+      "reagentId": 25868,
+      "reagentName": "Skyfire Diamond"
+    },
+    {
+      "reagentId": 22794,
+      "reagentName": "Fel Lotus"
+    },
+    {
+      "reagentId": 23571,
+      "reagentName": "Primal Might"
+    },
+    {
+      "reagentId": 13468,
+      "reagentName": "Black Lotus"
+    },
+    {
+      "reagentId": 10286,
+      "reagentName": "Heart of the Wild"
+    },
+    {
+      "reagentId": 18256,
+      "reagentName": "Imbued Vial"
+    },
+    {
+      "reagentId": 7972,
+      "reagentName": "Ichor of Undeath"
+    },
+    {
+      "reagentId": 22785,
+      "reagentName": "Felweed"
+    }
+  ]
+}

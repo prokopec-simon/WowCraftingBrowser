@@ -18,6 +18,10 @@ const filteredAlchemyRecipes = items.map((item) => {
   return { name: item.name, itemId: itemId, reagents: sources };
 });
 
-const jsonData = JSON.stringify(filteredAlchemyRecipes, null, 2);
+const jsonData = JSON.stringify(
+  { allRecipes: filteredAlchemyRecipes },
+  null,
+  2
+);
 const filePath = "alchemy_filtered_recipes.json";
 fs.writeFileSync(filePath, jsonData);

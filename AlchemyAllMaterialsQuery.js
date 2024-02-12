@@ -25,6 +25,6 @@ distinctReagentIds.forEach((reagentId) => {
     .name;
   reagentIdsWithNames.push({ reagentId, reagentName });
 });
-const jsonData = JSON.stringify(reagentIdsWithNames, null, 2);
+const jsonData = JSON.stringify({ reagents: reagentIdsWithNames }, null, 2);
 const filePath = "alchemy_reagent_ids.json";
 fs.writeFileSync(filePath, jsonData);
